@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Angular Chorme Test App",
+    "name": "Random Name Generator",
     "description": "extension desc",
     "version": "1.0",
     "browser_action": {
