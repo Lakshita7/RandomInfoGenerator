@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Random Name Generator",
+    "name": "Random Info Generator",
     "description": "extension desc",
     "version": "1.0",
     "browser_action": {
